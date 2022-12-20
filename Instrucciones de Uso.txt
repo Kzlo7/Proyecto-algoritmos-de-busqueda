@@ -1,0 +1,7 @@
+Instrucciones
+
+1.- Abrir el archivo "main.py" dentro de la carpeta "Programa"
+2.- Compilar el archivo.
+3.- Usuario: mauricio
+4.- Contraseña: hidalgo
+5.- Interactuar con el programa
